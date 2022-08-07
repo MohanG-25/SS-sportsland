@@ -1,0 +1,138 @@
+.App{
+   background-image: url('https://media.istockphoto.com/photos/various-sports-equipment-balls-on-wooden-background-picture-id1145660545?k=20&m=1145660545&s=170667a&w=0&h=fuVrr0VtEVLcuHbTW-7-EfDh63uqyeRQ2eLgA8gF2yk=');
+    text-align: center;
+    background-position:center;
+    background-size:cover;
+    width:130%;
+}
+.container{
+    background-color: darkgray; 
+    width: 130%;
+}
+.cricket{
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right:20px;   
+}
+.football{
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right:20px;  
+}
+.volleyball{
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right:20px;  
+}
+.hockey{
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 20px;
+    margin-left: 100px; 
+    margin-right:20px; 
+}
+.cricket-details{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.cricket-form{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.football-details{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.football-form{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.volleyball-details{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.volleyball-form{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.hockey-details{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.hockey-form{
+    outline-style: double;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.populate{
+    background-color: black;
+    background-size: cover;
+    height:30%;
+}
+.text{
+ color: red;
+}
+.shop{
+    margin-left:-430px;
+}
+.shop-details{
+    margin-left:-430px;
+}
+.scolor{
+    color:gray;
+}
+.information{
+    margin-top:-40px;
+    margin-left:-200px;
+}
+.information-details{
+    margin-left:-200px;
+    margin-top:-160px;
+}
+.icolor{
+    color:gray;
+}
+.explore{
+   margin-right:-10px;
+   margin-top:-40px;
+}
+.explore-details{
+    margin-right:-10px;
+    margin-top:-160px;
+}
+.ecolor{
+    color: gray;
+}
+.customer{
+    margin-right:-240px;
+    margin-top: -40px;
+}
+.customer-details{
+    margin-right:-300px;
+    margin-top:-160px
+}
+.ccolor{
+    color:gray;
+}
+h4{
+    color: aqua;
+}
+
+
+
+
+
+
