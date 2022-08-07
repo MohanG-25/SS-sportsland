@@ -12,7 +12,7 @@ const FetchCricket=()=>{
         //     console.log(json)
         //     setData(json)
         //   })
-        const {data}=await axios.get('/api/methods/cricket')
+        const {data}=await axios.get('https://s-serverside.herokuapp.com/api/methods/cricket')
               setData(data)
               console.log(data)   
           

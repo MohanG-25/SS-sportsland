@@ -3,7 +3,7 @@ import axios from 'axios'
 const FetchVolleyball=()=>{
      const [data,setData]=useState([])
      const volleyball=async()=>{
-        const{data}=await axios.get('/api/methods/volleyball')
+        const{data}=await axios.get('https://s-serverside.herokuapp.com/api/methods/volleyball')
         setData(data)
         console.log(data)
      }
